@@ -1,12 +1,12 @@
 {
     'name': 'KSO: Allow Fraction Quantity',
-    'version': '1.0',
+    'version': '18.0',
     'description': '',
-    'summary': '',
-    'author': '',
-    'website': '',
+    "summary": "-",
+    'author': "koderstory",
+    'website': 'https://koderstory.com/',
     'license': 'LGPL-3',
-    'category': '',
+    'category': 'Products',
     'depends': [
         'base','product', 'stock',
     ],
